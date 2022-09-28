@@ -6,7 +6,7 @@ Breast cancer is the most common cancer amongst women in the world. It accounts 
 
 The key challenge against its detection is how to classify tumors into malignant (cancerous) or benign(non-cancerous). This holds the analysis of classifying these tumors using machine learning (with SVMs) and the Cancer sample cells Dataset. 
 
-# Proeject is dvivided into 2 segments- 
+# Project is dvivided into 2 segments- 
   * Machine LEarning Segment
   * Deployment Segment 
 Mahine Learning Segment: The dataset does'nt have any missing values hence it was pure set to move ahead with model. SVM classier algorithm is used to classify the begnin and malignant cancer cells. Have tried two different kernels where 'rbf' has prpved to be a good kernel with less loss function. 
