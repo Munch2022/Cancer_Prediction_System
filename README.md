@@ -14,7 +14,7 @@ Prediction is done on test data as well as the new data and the ouput seems to b
 
 Deployment Segmment: Using a virtual environment. The model is pickled, saved and loaded to another file. Streamlit has been used for the deployment. The model is hosted in a local server 
 
-##Predictive model## : Overview
+# Predictive model: Overview
 
 •	Created a tool that predicts if the cells are cancerous or non-cancerous 
 •	Refered to a dataset in Kaggel
