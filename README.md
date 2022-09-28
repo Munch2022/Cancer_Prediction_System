@@ -9,6 +9,7 @@ The key challenge against its detection is how to classify tumors into malignant
 # Project is dvivided into 2 segments- 
   * Machine LEarning Segment
   * Deployment Segment 
+  
 Mahine Learning Segment: The dataset does'nt have any missing values hence it was pure set to move ahead with model. SVM classier algorithm is used to classify the begnin and malignant cancer cells. Have tried two different kernels where 'rbf' has prpved to be a good kernel with less loss function. 
 Prediction is done on test data as well as the new data and the ouput seems to be accurate. 
 
