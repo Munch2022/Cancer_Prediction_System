@@ -22,7 +22,10 @@ Deployment Segmment: Using a virtual environment. The model is pickled, saved an
 # Predictive model: Overview
 
 •	Created a tool that predicts if the cells are cancerous or non-cancerous 
+
 •	Refered to a dataset in Kaggel
+
 •	Exploration and computations were done on the dataset to know about it
+
 •	Optimized using SVM classifier model
  
