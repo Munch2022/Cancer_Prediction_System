@@ -29,3 +29,6 @@ Deployment Segmment: Using a virtual environment. The model is pickled, saved an
 
 •	Optimized using SVM classifier model
  
+ ### Screenshot of webapp Cancer_Predictive_System
+![image](https://user-images.githubusercontent.com/111883941/200258055-4c6e1844-2adb-4651-bacb-49cfd74d18f8.png)
+
