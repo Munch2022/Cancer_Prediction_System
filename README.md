@@ -10,7 +10,7 @@ Breast cancer is the most common cancer amongst women in the world. It accounts 
 
 The key challenge against its detection is how to classify tumors into malignant (cancerous) or benign(non-cancerous). This holds the analysis of classifying these tumors using machine learning (with SVMs) and the Cancer sample cells Dataset. 
 
-### Project is dvivided into 2 segments- 
+### Project is divided into 2 segments- 
   * Machine LEarning Segment
   * Deployment Segment 
   
@@ -31,4 +31,9 @@ Deployment Segmment: Using a virtual environment. The model is pickled, saved an
  
  ### Screenshot of webapp Cancer_Predictive_System
 ![image](https://user-images.githubusercontent.com/111883941/200258055-4c6e1844-2adb-4651-bacb-49cfd74d18f8.png)
+
+
+### Deployment Segmment- 
+Using a virtual environment. The model is pickled, saved and loaded to another file. Created a flask api to deploy the model on local host and also deployed the model on azure cloud. This ML model is hosted in a local/public server
+follow the link for app with flask and azure - https://github.com/Munch2022/CancerPrediction_Flask
 
