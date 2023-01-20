@@ -8,7 +8,7 @@ Using data science methodology
 ### Description:
 Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases, and affected over 2.1 Million people in 2015 alone. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
 
-The key challenge against its detection is how to classify tumors into malignant (cancerous) or benign(non-cancerous). This holds the analysis of classifying these tumors using machine learning (with SVMs) and the Cancer sample cells Dataset. 
+But COVID-19 pandemic had rapidly changed delivery of cancer care. For breast cancer, a key difference was increased use of neoadjuvant systemic therapy due to deferral of many breast surgeries during the pandemic. We included algorithms based on tumour biology and extent of disease that guide management decisions during the pandemic. These algorithms emphasize if the patient is diagnosed with cancer or not (benign or malignant) by looking at their X-ray reports where a group of radiologists themselves will be able to classify the medical condition of the patient. 
 
 ### Project is divided into 2 segments- 
   * Machine LEarning Segment
